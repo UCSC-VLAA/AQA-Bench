@@ -1,2 +1,3 @@
 # AQA-Bench
-Algorithmic-Q&amp;A-Bench: An Interactive Benchmark for Evaluating LLMs’ Sequential Reasoning Ability
+
+The code will be released by 02/23/2024.
