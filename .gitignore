@@ -1,0 +1,19 @@
+.vscode
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+*.egg-info
+
+# ipython/jupyter notebooks
+.ipynb_checkpoints
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+.idea
